@@ -1,4 +1,4 @@
-Add licenses to the file
+Add licenses to the file which are important.
 # Microsoft-Sysmon
 Implementing Sysmon as part of Sysinternals suite within the premise on all endpoints which are part of the organization, for monitoring event logs.
 
